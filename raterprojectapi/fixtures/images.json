@@ -1,0 +1,29 @@
+[
+    {
+        "model": "raterprojectapi.images",
+        "pk": 1,
+        "fields": {
+            "name": "image01",
+            "player": 1,
+            "game": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.images",
+        "pk": 2,
+        "fields": {
+            "name": "image02",
+            "player": 1,
+            "game": 2
+        }
+    },
+    {
+        "model": "raterprojectapi.images",
+        "pk": 3,
+        "fields": {
+            "name": "image03",
+            "player": 1,
+            "game": 3
+        }
+    }
+]
