@@ -1,0 +1,23 @@
+[
+    {
+        "model": "raterprojectapi.categories",
+        "pk": 1,
+        "fields": {
+            "name": "board game"
+        }
+    },
+    {
+        "model": "raterprojectapi.categories",
+        "pk": 2,
+        "fields": {
+            "name": "card game"
+        }
+    },
+    {
+        "model": "raterprojectapi.categories",
+        "pk": 3,
+        "fields": {
+            "name": "LARP"
+        }
+    }
+]

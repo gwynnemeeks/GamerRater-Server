@@ -1,0 +1,35 @@
+[
+    {
+        "model": "raterprojectapi.reviews",
+        "pk": 1,
+        "fields": {
+            "review_body": "review one",
+            "timestamp": "20:00[00[.0000]]",
+            "rating": 5,
+            "player": 1,
+            "game": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.reviews",
+        "pk": 2,
+        "fields": {
+            "review_body": "review three",
+            "timestamp": "20:00[00[.0000]]",
+            "rating": 5,
+            "player": 1,
+            "game": 3
+        }
+    },
+    {
+        "model": "raterprojectapi.reviews",
+        "pk": 3,
+        "fields": {
+            "review_body": "review two",
+            "timestamp": "20:00[00[.0000]]",
+            "rating": 5,
+            "player": 1,
+            "game": 2
+        }
+    }
+]
